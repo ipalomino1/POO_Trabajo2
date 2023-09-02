@@ -1,3 +1,4 @@
+package com.mycompany.poo_trabajo2;
 import java.util.Scanner;
 
 public class Ejercicio11 {
